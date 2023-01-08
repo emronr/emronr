@@ -16,7 +16,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at partnership of Mikro, Zirve, Paraşüt
-- :seedling: &nbsp;I’m currently learning **React**
+- :seedling: &nbsp;I’m currently learning **NodeJS**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
