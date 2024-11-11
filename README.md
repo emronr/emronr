@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=emronr" alt="page views" />
   </a>
   <a href="https://github.com/emronr?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zztrk?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/emronr?color=green&logo=github">
   </a>
 </p>
 
